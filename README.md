@@ -1,10 +1,4 @@
-**Imię i nazwisko:** Jakub Pranica **Grupa:** Informatyka - 13i **Data:**
-24-04-2017 **Przedmiot:** Metody Programowania
-
-**Wykładowca:** dr inż. Zbigniew Kokosiński **Semestr:** 2
-
-**Temat:** Wykorzystując algorytm GSAT oraz WalkSAT napisać program rozwiązujący
-problem spełnialności dla wprowadzonej formuły logicznej.
+**Temat:** Program wykorzystujący algorytm GSAT oraz WalkSAT do rozwiązania problemu spełnialności dla wprowadzonej formuły logicznej.
 
 **Problem spełnialności** – zagadnienie rachunku zdań, określające czy dla danej
 formuły logicznej istnieje takie przyporządkowanie zmiennych zdaniowych, żeby
